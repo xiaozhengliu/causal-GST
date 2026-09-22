@@ -1,1 +1,1 @@
-# casual-GST
+# causal-GST
